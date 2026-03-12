@@ -10,6 +10,15 @@ title = 'My New Hugo Site'
         path = "github.com/gohugoio/hugo-mod-bootstrap-scss/v5"
         disable = false
 
+
+[params]
+    [params.docs]   
+        darkMode = true
+
+    [params.footer]
+        copyright = "© :YEAR: Lotus Labs. Built with [**Lotus Docs**](https://github.com/colinwilson/lotusdocs)"
+        # version = true # includes git commit info
+
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
