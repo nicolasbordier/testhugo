@@ -1,6 +1,6 @@
 ---
-weight: 900
-title: "Nurburgring Endurance"
+weight: 999
+title: "Special Events"
 description: ""
 icon: "article"
 date: "2025-12-21T13:34:21+01:00"
