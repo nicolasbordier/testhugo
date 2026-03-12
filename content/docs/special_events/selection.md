@@ -15,13 +15,13 @@ toc: true
 {{< table "table-responsive table-xs table-borderless"  >}}
 |             |         |
 |-------------|---------|
-| `Mars`      | ![sebring](https://nicolasbordier.github.io/testhugo/docs/special_events/img/sebring.png)   |
-| `Mai`       | ![thruxton](https://nicolasbordier.github.io/testhugo/docs/special_events/img/thruxton.png) |
-| `Juin`      | ![watkins](https://nicolasbordier.github.io/testhugo/docs/special_events/img/watkins.png)   |
-| `Juillet`   | ![roadamerica](https://nicolasbordier.github.io/testhugo/docs/special_events/img/roadamerica.png)   |
-| `Septembre` | ![suzuka](https://nicolasbordier.github.io/testhugo/docs/special_events/img/suzuka.png)   |
-| `Septembre` | ![roadatlanta](https://nicolasbordier.github.io/testhugo/docs/special_events/img/roadatlanta.png)   |
-| `Octobre`   | ![brandshatch](https://nicolasbordier.github.io/testhugo/docs/special_events/img/brandshatch.png)   |
-| `Novembre`  | ![bathurst](https://nicolasbordier.github.io/testhugo/docs/special_events/img/bathurst.png)   |
-| `Décembre`  | ![virginia](https://nicolasbordier.github.io/testhugo/docs/special_events/img/virginia.png)   |
+| `Mars`      | ![sebring](https://nicolasbordier.github.io/testhugo/sebring.png)   |
+| `Mai`       | ![thruxton](https://nicolasbordier.github.io/testhugo/thruxton.png) |
+| `Juin`      | ![watkins](https://nicolasbordier.github.io/testhugo/watkins.png)   |
+| `Juillet`   | ![roadamerica](https://nicolasbordier.github.io/testhugo/roadamerica.png)   |
+| `Septembre` | ![suzuka](https://nicolasbordier.github.io/testhugo/suzuka.png)   |
+| `Septembre` | ![roadatlanta](https://nicolasbordier.github.io/testhugo/roadatlanta.png)   |
+| `Octobre`   | ![brandshatch](https://nicolasbordier.github.io/testhugo/brandshatch.png)   |
+| `Novembre`  | ![bathurst](https://nicolasbordier.github.io/testhugo/bathurst.png)   |
+| `Décembre`  | ![virginia](https://nicolasbordier.github.io/testhugo/virginia.png)   |
 {{< /table >}}
