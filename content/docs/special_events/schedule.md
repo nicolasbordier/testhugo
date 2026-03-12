@@ -9,7 +9,5 @@ draft: false
 toc: true
 ---
 
-![vln](http://localhost:1313/docs/events2026/img2/vln_2.jpg)
-
-![schedule](http://localhost:1313/docs/events2026/img/iRSE_SpecialEvents_Schedule_2026_2.png)
+![schedule](https://nicolasbordier.github.io/testhugo/docs/special_events/img/iRSE_SpecialEvents_Schedule_2026_2.png)
 
