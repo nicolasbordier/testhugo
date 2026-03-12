@@ -2,21 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/testhugo/docs/example-page/</loc>
-    <lastmod>2023-05-03T22:37:22+01:00</lastmod>
+    <loc>https://github.com/nicolasbordier/testhugo/docs/events2026/resultats/</loc>
+    <lastmod>2025-12-21T13:34:21+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/testhugo/tags/beginners/</loc>
-    <lastmod>2023-05-03T22:37:22+01:00</lastmod>
+    <loc>https://github.com/nicolasbordier/testhugo/docs/</loc>
+    <lastmod>2025-12-21T13:34:21+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/testhugo/docs/</loc>
-    <lastmod>2023-05-03T22:37:22+01:00</lastmod>
+    <loc>https://github.com/nicolasbordier/testhugo/</loc>
+    <lastmod>2025-12-21T13:34:21+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/testhugo/</loc>
-    <lastmod>2023-05-03T22:37:22+01:00</lastmod>
+    <loc>https://github.com/nicolasbordier/testhugo/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/testhugo/tags/</loc>
-    <lastmod>2023-05-03T22:37:22+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/testhugo/categories/</loc>
+    <loc>https://github.com/nicolasbordier/testhugo/tags/</loc>
   </url>
 </urlset>

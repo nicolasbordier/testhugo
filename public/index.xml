@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My New Hugo Site</title>
-    <link>http://localhost:1313/testhugo/</link>
+    <link>https://github.com/nicolasbordier/testhugo/</link>
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 03 May 2023 22:37:22 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/testhugo/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 21 Dec 2025 13:34:21 +0100</lastBuildDate>
+    <atom:link href="https://github.com/nicolasbordier/testhugo/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Quickstart</title>
-      <link>http://localhost:1313/testhugo/docs/example-page/</link>
-      <pubDate>Wed, 03 May 2023 22:37:22 +0100</pubDate>
-      <guid>http://localhost:1313/testhugo/docs/example-page/</guid>
-      <description>&lt;h2 id=&#34;create-new-content&#34;&gt;Create New Content &lt;a href=&#34;#create-new-content&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;i class=&#34;material-icons align-middle&#34;&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Navigate to the root of your Hugo project and use the &lt;code&gt;hugo new&lt;/code&gt; command to create a file in the &lt;code&gt;content/docs&lt;/code&gt; directory:&lt;/p&gt;&#xA;&#xA;&#xA;    &#xA;    &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;hugo new docs/examplepage.md&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&#xA;&lt;p&gt;&amp;hellip;&lt;/p&gt;</description>
+      <title>Résultats</title>
+      <link>https://github.com/nicolasbordier/testhugo/docs/events2026/resultats/</link>
+      <pubDate>Sun, 21 Dec 2025 13:34:21 +0100</pubDate>
+      <guid>https://github.com/nicolasbordier/testhugo/docs/events2026/resultats/</guid>
+      <description>&lt;table class=&#34;table table-responsive table-xs table-borderless&#34;&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;Date&lt;/th&gt;&#xA;          &lt;th&gt;Circuit&lt;/th&gt;&#xA;          &lt;th&gt;Voiture&lt;/th&gt;&#xA;          &lt;th&gt;Equipage&lt;/th&gt;&#xA;          &lt;th&gt;Pilote(s)&lt;/th&gt;&#xA;          &lt;th&gt;Position&lt;/th&gt;&#xA;          &lt;th&gt;Points&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;&lt;code&gt;DD/MM/YY&lt;/code&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;code&gt;ex : Imola&lt;/code&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;code&gt;ex : M2&lt;/code&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;code&gt;Goldenhawk 1 ou 2&lt;/code&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;code&gt;ex : Robert&lt;/code&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;code&gt;ex : P1&lt;/code&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;code&gt;ex : 123 pts&lt;/code&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;</description>
     </item>
   </channel>
 </rss>
