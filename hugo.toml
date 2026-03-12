@@ -16,8 +16,8 @@ title = 'My New Hugo Site'
         darkMode = true
 
     [params.footer]
-        copyright = "© :YEAR: Lotus Labs. Built with [**Lotus Docs**](https://github.com/colinwilson/lotusdocs)"
-        # version = true # includes git commit info
+        copyright = "© :YEAR: Goldenhawk Motorsport."
+        version = true # includes git commit info
 
 [caches]
   [caches.images]
