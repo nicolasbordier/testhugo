@@ -9,6 +9,11 @@ draft: false
 toc: true
 ---
 
+Légende : 
+- PEC : Production Endurance Challenge
+- GET : Global Endurance Tour
+
+
 {{< table "table-responsive table-xs table-borderless"  >}}
 |             |         |
 |-------------|---------|

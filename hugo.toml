@@ -18,7 +18,3 @@ title = 'My New Hugo Site'
     [params.footer]
         copyright = "© :YEAR: Goldenhawk Motorsport."
         version = true # includes git commit info
-
-[caches]
-  [caches.images]
-    dir = ':cacheDir/images'
