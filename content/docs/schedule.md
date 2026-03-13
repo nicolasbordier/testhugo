@@ -12,4 +12,4 @@ toc: true
 
 [Dowload PDF](https://us.v-cdn.net/6034148/uploads/2E7GL1LC659Q/2026s2.pdf)
 
-![Schedule 2026s2](https://nicolasbordier.github.io/testhugo/schedule2026s2.png)
+![CalendrierSpecialEvents](https://nicolasbordier.github.io/testhugo/2026specialevents.png)
