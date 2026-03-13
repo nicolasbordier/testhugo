@@ -19,5 +19,3 @@ toc: true
 {{< /table >}}
 
 
-
-{{< /table >}}
