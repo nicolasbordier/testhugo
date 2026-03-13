@@ -1,6 +1,6 @@
 ---
 weight: 500
-title: "Production Endurance Serie"
+title: "Production Endurance Challenge"
 description: ""
 icon: "article"
 date: "2025-12-21T13:34:21+01:00"
