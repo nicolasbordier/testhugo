@@ -12,10 +12,10 @@ toc: true
 {{< table "table-responsive table-xs table-borderless"  >}}
 |             |         |
 |-------------|---------|
-| `Mars`      | ![mars](https://nicolasbordier.github.io/testhugo/schedule/mars.png)   |
-| `Avril`     | ![avril](https://nicolasbordier.github.io/testhugo/schedule/avril.png) |
-| `Mai`       | ![mai](https://nicolasbordier.github.io/testhugo/schedule/mai.png) |
-| `Juin`      | ![juin](https://nicolasbordier.github.io/testhugo/schedule/juin.png)   |
+| `Mars`      | ![mars](https://nicolasbordier.github.io/testhugo/mars.png)   |
+| `Avril`     | ![avril](https://nicolasbordier.github.io/testhugo/avril.png) |
+| `Mai`       | ![mai](https://nicolasbordier.github.io/testhugo/mai.png) |
+| `Juin`      | ![juin](https://nicolasbordier.github.io/testhugo/juin.png)   |
 {{< /table >}}
 
 
