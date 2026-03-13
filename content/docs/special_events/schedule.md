@@ -9,5 +9,5 @@ draft: false
 toc: true
 ---
 
-![schedule](https://nicolasbordier.github.io/testhugo/specialevents2026.png)
+![schedule](https://nicolasbordier.github.io/testhugo/iRSE_SpecialEvents_Schedule_2026_2.png)
 
